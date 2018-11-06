@@ -4,6 +4,13 @@
   border: none !important;
 }
 
-.overlay {
+.purpose-image {
   background-color: black;
+  background-image: url('../../static/images/purpose.jpg') !important;
+  background-size: cover !important;
+  color: white;
+}
+
+.purpose-text {
+  padding: 5em 0;
 }
