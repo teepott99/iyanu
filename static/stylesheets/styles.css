@@ -1,0 +1,9 @@
+.landing-image {
+  background-image: url('../../static/images/header-image.jpeg') !important;
+  background-size: cover !important;
+  border: none !important;
+}
+
+.overlay {
+  background-color: black;
+}
